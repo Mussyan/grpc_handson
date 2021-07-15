@@ -160,4 +160,4 @@ public class HelloServerRunner {
 ##### Run 'HelloServerRunner'
 
 ---
-## [Next chapter(Chapter 3)](https://git.mzcgroup.net/dabins/grpc_handson_v2/-/blob/master/3-gRPC_client_java/Chapter3.md)
+## [Next chapter(Chapter 3)](https://github.com/Mussyan/grpc_handson/blob/master/3-gRPC_client_java/Chapter3.md)

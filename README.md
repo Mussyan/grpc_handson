@@ -32,5 +32,5 @@ Please follow Chapters & Steps.
 > cd ~/grpc_handson_v2
 ```
 ---
-### [Protocol buffers(Chapter 1)](https://git.mzcgroup.net/dabins/grpc_handson_v2/-/blob/master/1-Protocol_buffers/Chapter1.md)
-### [gRPC(Chapter 2)](https://git.mzcgroup.net/dabins/grpc_handson_v2/-/blob/master/2-gRPC_server_java/Chapter2.md)
+### [Protocol buffers(Chapter 1)](https://github.com/Mussyan/grpc_handson/blob/master/1-Protocol_buffers/Chapter1.md)
+### [gRPC(Chapter 2)](https://github.com/Mussyan/grpc_handson/blob/master/2-gRPC_server_java/Chapter2.md)

@@ -55,4 +55,4 @@ brew uninstall protobuf
 pip3 uninstall grpcio
 pip3 uninstall grpcio-tools
 ```
-## [Next chapter(Chapter 7)](https://git.mzcgroup.net/dabins/grpc_handson_v2/-/blob/master/7-gRPC_stream_server/Chapter7.md)
+## [Next chapter(Chapter 7)](https://github.com/Mussyan/grpc_handson/blob/master/7-gRPC_stream_server/Chapter7.md)

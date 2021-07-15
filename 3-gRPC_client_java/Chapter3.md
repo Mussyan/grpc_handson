@@ -115,4 +115,4 @@ public class HelloClientRunner {
 ##### Run 'HelloClientRunner'
 
 ---
-## [Next chapter(Chapter 4)](https://git.mzcgroup.net/dabins/grpc_handson_v2/-/blob/master/4-gRPC_service_update/Chapter4.md)
+## [Next chapter(Chapter 4)](https://github.com/Mussyan/grpc_handson/blob/master/4-gRPC_service_update/Chapter4.md)

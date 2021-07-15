@@ -103,4 +103,4 @@ except IOError:
 ```
 
 ---
-## [Next chapter(Chapter 2)](https://git.mzcgroup.net/dabins/grpc_handson_v2/-/blob/master/2-gRPC_server_java/Chapter2.md)
+## [Next chapter(Chapter 2)](https://github.com/Mussyan/grpc_handson/blob/master/2-gRPC_server_java/Chapter2.md)

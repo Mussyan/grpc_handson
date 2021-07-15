@@ -45,4 +45,4 @@ if __name__ == '__main__':
 ```
 
 ---
-## [Next chapter(Chapter 6)](https://git.mzcgroup.net/dabins/grpc_handson_v2/-/blob/master/6-gRPC_server_docker/Chapter6.md)
+## [Next chapter(Chapter 6)](https://github.com/Mussyan/grpc_handson/blob/master/6-gRPC_server_docker/Chapter6.md)

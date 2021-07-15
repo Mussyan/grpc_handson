@@ -216,4 +216,4 @@ public class ServerRunner {
 
 ##### Run 'ServerRunner'
 
-## [Next chapter(Chapter 8)](https://git.mzcgroup.net/dabins/grpc_handson_v2/-/blob/master/8-gRPC_stream_client/Chapter8.md)
+## [Next chapter(Chapter 8)](https://github.com/Mussyan/grpc_handson/blob/master/8-gRPC_stream_client/Chapter8.md)
